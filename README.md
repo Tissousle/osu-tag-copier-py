@@ -14,4 +14,4 @@ just run it
 
 ----- 
 
-might update this to work better soon idk
+might expand the functionality for this to work better soon idk
